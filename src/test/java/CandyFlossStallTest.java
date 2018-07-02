@@ -9,7 +9,7 @@ public class CandyFlossStallTest {
 
     @Before
     public void before() {
-        candyFlossStall = new CandyFlossStall("Candy!", "Willy Wonka", 002);
+        candyFlossStall = new CandyFlossStall("Candy!", "Willy Wonka", 002, 5);
     }
 
     @Test
@@ -17,6 +17,7 @@ public class CandyFlossStallTest {
         assertEquals("Candy!", candyFlossStall.getName());
         assertEquals("Willy Wonka", candyFlossStall.getOwnerName());
         assertEquals(002, candyFlossStall.getParkingSpot());
+        assertEquals(5, candyFlossStall.getRating());
     }
 
 }

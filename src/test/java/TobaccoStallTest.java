@@ -12,7 +12,7 @@ public class TobaccoStallTest {
 
     @Before
     public void before() {
-        tobaccoStall = new TobaccoStall("Professor Pipe", "Dr Cigar", 003);
+        tobaccoStall = new TobaccoStall("Professor Pipe", "Dr Cigar", 003, 1);
         visitor1 = new Visitor(23, 190, 234.20);
         visitor2 = new Visitor(18, 180, 24.20);
         visitor3 = new Visitor(17, 156, 34.20);
@@ -23,6 +23,7 @@ public class TobaccoStallTest {
         assertEquals("Professor Pipe", tobaccoStall.getName());
         assertEquals("Dr Cigar", tobaccoStall.getOwnerName());
         assertEquals(003, tobaccoStall.getParkingSpot());
+        assertEquals(1, tobaccoStall.getRating());
     }
 
     @Test

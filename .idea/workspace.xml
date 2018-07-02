@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98780300-c03e-4352-9326-30523e2e7537" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IceCreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -21,90 +26,14 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4853801">
+    <splitter split-orientation="horizontal" split-proportion="0.4502924">
       <split-first>
         <leaf>
-          <file leaf-file-name="IceCreamStall.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/IceCreamStall.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-                  <folding>
-                    <element signature="e#202#203#0" expanded="true" />
-                    <element signature="e#223#224#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CandyFlossStall.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="CandyFlossStall.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/CandyFlossStall.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-                  <folding>
-                    <element signature="e#214#215#0" expanded="true" />
-                    <element signature="e#235#236#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Stall.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TobaccoStall.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-                  <folding>
-                    <element signature="e#208#209#0" expanded="true" />
-                    <element signature="e#242#243#0" expanded="true" />
-                    <element signature="e#302#303#0" expanded="true" />
-                    <element signature="e#338#339#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Rollercoaster.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#191#192#0" expanded="true" />
-                    <element signature="e#264#265#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Playground.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#209#210#0" expanded="true" />
-                    <element signature="e#236#237#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Visitor.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" selection-start-line="16" selection-end-line="16" />
+                <state>
+                  <caret column="43" selection-start-column="43" selection-end-column="43" />
                 </state>
               </provider>
             </entry>
@@ -113,15 +42,44 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="IceCreamStallTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
+          <file leaf-file-name="IceCreamStall.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/IceCreamStall.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+                <state>
+                  <caret column="41" selection-start-column="41" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Stall.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="49" selection-start-column="49" selection-end-column="49" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TobaccoStall.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#302#303#0" expanded="true" />
+                    <element signature="e#347#348#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TobaccoStallTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="350">
+                  <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#139#140#0" expanded="true" />
-                    <element signature="e#189#190#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -130,81 +88,24 @@
           <file leaf-file-name="CandyFlossStallTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+                <state relative-caret-position="270">
+                  <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#137#138#0" expanded="true" />
-                    <element signature="e#220#221#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ITicketed.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ITicketed.java">
+          <file leaf-file-name="IceCreamStallTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="IReviewed.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/IReviewed.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TobaccoStallTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+                <state relative-caret-position="300">
+                  <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#759#760#0" expanded="true" />
-                    <element signature="e#788#789#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ISecurity.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="PlaygroundTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/PlaygroundTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#532#533#0" expanded="true" />
-                    <element signature="e#609#610#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="RollercoasterTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="30" selection-start-line="30" selection-end-line="33" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#301#302#0" expanded="true" />
-                    <element signature="e#364#365#0" expanded="true" />
+                    <element signature="e#200#201#0" expanded="true" />
+                    <element signature="e#281#282#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -523,7 +424,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stall.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark.java" />
         <option value="$PROJECT_DIR$/src/main/java/Attraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Park.java" />
@@ -531,19 +431,20 @@
         <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Dodgems.java" />
         <option value="$PROJECT_DIR$/src/test/java/DodgemsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IceCreamStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/ISecurity.java" />
         <option value="$PROJECT_DIR$/src/main/java/Playground.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TobaccoStall.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rollercoaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IceCreamStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TobaccoStall.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/IceCreamStallTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
       </list>
     </option>
   </component>
@@ -645,14 +546,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="All in ThemePark_test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CandyFlossStallTest.canGetAttributes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="CandyFlossStallTest" />
+      <option name="METHOD_NAME" value="canGetAttributes" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -753,18 +654,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in ThemePark_test (1)" />
-      <item itemvalue="JUnit.All in ThemePark_test (2)" />
       <item itemvalue="JUnit.PlaygroundTest" />
       <item itemvalue="JUnit.TobaccoStallTest" />
       <item itemvalue="JUnit.RollercoasterTest.rollercoasterSecurityWorks" />
+      <item itemvalue="JUnit.CandyFlossStallTest.canGetAttributes" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in ThemePark_test (1)" />
+        <item itemvalue="JUnit.CandyFlossStallTest.canGetAttributes" />
         <item itemvalue="JUnit.RollercoasterTest.rollercoasterSecurityWorks" />
         <item itemvalue="JUnit.TobaccoStallTest" />
         <item itemvalue="JUnit.PlaygroundTest" />
-        <item itemvalue="JUnit.All in ThemePark_test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -782,9 +683,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 17h 29m 52s.xml">
-      <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_ThemePark_test_(2) - 2018.07.02 at 17h 32m 27s.xml">
       <configuration name="All in ThemePark_test (2)" configurationId="JUnit" />
     </history-entry>
@@ -812,6 +710,9 @@
     <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 20h 02m 46s.xml">
       <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 20h 03m 02s.xml">
+      <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -819,18 +720,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32692307" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3434066" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3434066" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3543956" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14377682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14377682" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32921812" />
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -866,13 +767,6 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -945,59 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IceCreamStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CandyFlossStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ITicketed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1005,16 +846,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IReviewed.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="e#209#210#0" expanded="true" />
@@ -1023,35 +875,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Visitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ISecurity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IReviewed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1067,32 +901,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Visitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rollercoaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RollercoasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="243">
           <caret line="30" selection-start-line="30" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
             <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CandyFlossStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IceCreamStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TobaccoStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
