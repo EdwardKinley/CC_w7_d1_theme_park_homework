@@ -36,9 +36,8 @@ public class ThemePark {
         return allReviewed;
     }
 
-//    public String visit(Visitor visitor, Attraction attraction) {
-//        return "enjoying ride";
-//        }
-//    }
+    public String visit(Visitor visitor, Attraction attraction) {
+        return "enjoying ride";
+    }
 
 }

@@ -66,9 +66,9 @@ public class ThemeParkTest {
         assertEquals(3, themePark.getAllReviewed().size());
     }
 
-//    @Test
-//    public void canVisit() {
-//
-//    }
+    @Test
+    public void canVisit() {
+        assertEquals("enjoying ride", themePark.visit(visitor1, dodgems));
+    }
 
 }
