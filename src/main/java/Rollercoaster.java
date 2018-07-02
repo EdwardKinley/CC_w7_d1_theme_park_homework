@@ -6,6 +6,8 @@ public class Rollercoaster extends Attraction {
         super(name);
     }
 
-
+    public boolean isAllowedTo(Visitor visitor) {
+        return (visitor.getHeight() > 145) && (visitor.getAge() > 12);
+    }
 
 }
