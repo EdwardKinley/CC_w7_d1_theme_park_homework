@@ -1,5 +1,5 @@
 public interface ISecurity {
 
-    boolean isAllowedTo(Visitor);
+    boolean isAllowedTo(Visitor visitor);
 
 }

@@ -1,4 +1,4 @@
-public class Playground extends Attraction {
+public class Playground extends Attraction implements ISecurity {
 
     private String name;
 
@@ -6,5 +6,8 @@ public class Playground extends Attraction {
            super(name);
     }
 
+    public boolean isAllowedTo(Visitor visitor) {
+        return (visitor.getAge() <= 15);
+    }
 
 }
