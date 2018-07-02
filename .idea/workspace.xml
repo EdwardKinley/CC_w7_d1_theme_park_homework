@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98780300-c03e-4352-9326-30523e2e7537" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dodgems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dodgems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Park.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Playground.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Rollercoaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DodgemsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DodgemsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,7 +21,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4502924">
+    <splitter split-orientation="horizontal" split-proportion="0.5112782">
       <split-first>
         <leaf>
           <file leaf-file-name="CandyFlossStall.java" pinned="false" current-in-tab="false">
@@ -41,7 +33,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Stall.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Stall.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
@@ -50,27 +42,11 @@
               </provider>
             </entry>
           </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="TobaccoStallTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/TobaccoStallTest.java">
+          <file leaf-file-name="ThemePark.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="381">
-                  <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Attraction.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+                <state relative-caret-position="435">
+                  <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -78,34 +54,21 @@
           <file leaf-file-name="Dodgems.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+                <state>
+                  <caret column="40" selection-start-column="40" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Park.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Park.java">
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Attraction.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#131#132#0" expanded="true" />
-                    <element signature="e#166#167#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Playground.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Playground.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#209#210#0" expanded="true" />
-                    <element signature="e#256#257#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="165">
+                  <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -161,7 +124,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ParkTest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="ParkTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/ParkTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
@@ -170,6 +133,22 @@
                     <element signature="imports" expanded="true" />
                     <element signature="e#173#174#0" expanded="true" />
                     <element signature="e#217#218#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ThemeParkTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="244">
+                  <caret line="62" selection-start-line="62" selection-end-line="62" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#286#287#0" expanded="true" />
+                    <element signature="e#349#350#0" expanded="true" />
+                    <element signature="e#1826#1827#0" expanded="true" />
+                    <element signature="e#1892#1893#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -488,8 +467,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Visitor.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisitorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ITicketed.java" />
         <option value="$PROJECT_DIR$/src/main/java/IReviewed.java" />
         <option value="$PROJECT_DIR$/src/main/java/ISecurity.java" />
@@ -509,6 +486,8 @@
         <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ParkTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark.java" />
       </list>
     </option>
   </component>
@@ -610,13 +589,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DodgemsTest.canGetRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeParkTest.canGetAllReviewed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DodgemsTest" />
-      <option name="METHOD_NAME" value="canGetRating" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetAllReviewed" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -627,13 +606,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ParkTest.canGetRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeParkTest.canGetAttractions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParkTest" />
-      <option name="METHOD_NAME" value="canGetRating" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetAttractions" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -644,13 +623,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PlaygroundTest.canGetRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeParkTest.canGetStalls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PlaygroundTest" />
-      <option name="METHOD_NAME" value="canGetRating" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetStalls" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -661,13 +640,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RollercoasterTest.canGetRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ThemeParkTest.canGetVisitors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemePark_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RollercoasterTest" />
-      <option name="METHOD_NAME" value="canGetRating" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="METHOD_NAME" value="canGetVisitors" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -718,18 +697,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in ThemePark_test (1)" />
-      <item itemvalue="JUnit.DodgemsTest.canGetRating" />
-      <item itemvalue="JUnit.RollercoasterTest.canGetRating" />
-      <item itemvalue="JUnit.PlaygroundTest.canGetRating" />
-      <item itemvalue="JUnit.ParkTest.canGetRating" />
+      <item itemvalue="JUnit.ThemeParkTest.canGetAllReviewed" />
+      <item itemvalue="JUnit.ThemeParkTest.canGetAttractions" />
+      <item itemvalue="JUnit.ThemeParkTest.canGetStalls" />
+      <item itemvalue="JUnit.ThemeParkTest.canGetVisitors" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in ThemePark_test (1)" />
-        <item itemvalue="JUnit.ParkTest.canGetRating" />
-        <item itemvalue="JUnit.PlaygroundTest.canGetRating" />
-        <item itemvalue="JUnit.RollercoasterTest.canGetRating" />
-        <item itemvalue="JUnit.DodgemsTest.canGetRating" />
+        <item itemvalue="JUnit.ThemeParkTest.canGetAllReviewed" />
+        <item itemvalue="JUnit.ThemeParkTest.canGetVisitors" />
+        <item itemvalue="JUnit.ThemeParkTest.canGetStalls" />
+        <item itemvalue="JUnit.ThemeParkTest.canGetAttractions" />
       </list>
     </recent_temporary>
   </component>
@@ -747,39 +726,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 19h 36m 05s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
+    <history-entry file="ThemeParkTest_canGetAttractions - 2018.07.02 at 22h 48m 21s.xml">
+      <configuration name="ThemeParkTest.canGetAttractions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 19h 37m 36s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 19h 38m 34s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 19h 39m 03s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 19h 59m 11s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest_rollercoasterSecurityWorks - 2018.07.02 at 20h 02m 46s.xml">
-      <configuration name="RollercoasterTest.rollercoasterSecurityWorks" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 20h 03m 02s.xml">
+    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 22h 55m 16s.xml">
       <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 21h 43m 54s.xml">
-      <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
+    <history-entry file="ThemeParkTest_canGetAttractions - 2018.07.02 at 22h 56m 36s.xml">
+      <configuration name="ThemeParkTest.canGetAttractions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParkTest_canGetRating - 2018.07.02 at 21h 54m 45s.xml">
-      <configuration name="ParkTest.canGetRating" configurationId="JUnit" />
+    <history-entry file="ThemeParkTest_canGetStalls - 2018.07.02 at 22h 57m 35s.xml">
+      <configuration name="ThemeParkTest.canGetStalls" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 21h 54m 50s.xml">
-      <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
+    <history-entry file="ThemeParkTest_canGetStalls - 2018.07.02 at 22h 58m 03s.xml">
+      <configuration name="ThemeParkTest.canGetStalls" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_canGetVisitors - 2018.07.02 at 22h 58m 58s.xml">
+      <configuration name="ThemeParkTest.canGetVisitors" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_canGetAllReviewed - 2018.07.02 at 23h 00m 47s.xml">
+      <configuration name="ThemeParkTest.canGetAllReviewed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_canGetAllReviewed - 2018.07.02 at 23h 02m 13s.xml">
+      <configuration name="ThemeParkTest.canGetAllReviewed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_canGetAllReviewed - 2018.07.02 at 23h 03m 24s.xml">
+      <configuration name="ThemeParkTest.canGetAllReviewed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_canGetAllReviewed - 2018.07.02 at 23h 04m 59s.xml">
+      <configuration name="ThemeParkTest.canGetAllReviewed" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -789,7 +769,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3434066" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3434066" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3543956" />
       <window_info id="Capture Tool" order="6" />
@@ -801,7 +781,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.33241758" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -814,34 +794,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Attractions/Rollercoaster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-          <folding>
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,20 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Park.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1037,6 +985,68 @@
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="286" selection-start-line="286" selection-end-line="286" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dodgems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#1826#1827#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Attraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
