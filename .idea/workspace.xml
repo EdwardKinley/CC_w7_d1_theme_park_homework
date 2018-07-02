@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98780300-c03e-4352-9326-30523e2e7537" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CandyFlossStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TobaccoStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ITicketed.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -55,8 +52,8 @@
           <file leaf-file-name="Stall.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="225">
+                  <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -92,7 +89,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CandyFlossStallTest.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="CandyFlossStallTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="285">
@@ -102,6 +99,15 @@
                     <element signature="e#137#138#0" expanded="true" />
                     <element signature="e#220#221#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ITicketed.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ITicketed.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -128,6 +134,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -450,6 +457,7 @@
         <option value="$PROJECT_DIR$/src/main/java/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CandyFlossStallTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ITicketed.java" />
       </list>
     </option>
   </component>
@@ -688,9 +696,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RollercoasterTest_canGetName - 2018.07.02 at 16h 57m 18s.xml">
-      <configuration name="RollercoasterTest.canGetName" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PlaygroundTest_canGetName - 2018.07.02 at 17h 01m 41s.xml">
       <configuration name="PlaygroundTest.canGetName" configurationId="JUnit" />
     </history-entry>
@@ -718,6 +723,9 @@
     <history-entry file="All_in_ThemePark_test_(1) - 2018.07.02 at 17h 29m 52s.xml">
       <configuration name="All in ThemePark_test (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_ThemePark_test_(2) - 2018.07.02 at 17h 32m 27s.xml">
+      <configuration name="All in ThemePark_test (2)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -731,9 +739,9 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3434066" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3434066" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15796703" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15796703" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
@@ -941,13 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IceCreamStallTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -981,6 +982,20 @@
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ITicketed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
