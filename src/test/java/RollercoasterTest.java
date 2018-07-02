@@ -13,7 +13,7 @@ public class RollercoasterTest {
 
     @Before
     public void before() {
-        rollercoaster = new Rollercoaster("Condor");
+        rollercoaster = new Rollercoaster("Condor",4 );
         visitor1 = new Visitor(15, 155, 90.30);
         visitor2 = new Visitor(15, 135, 90.90);
         visitor3 = new Visitor(11, 155, 190.30);
@@ -24,6 +24,9 @@ public class RollercoasterTest {
     public void canGetName() {
         assertEquals("Condor", rollercoaster.getName());
     }
+
+    @Test
+    public void canGetRating() { assertEquals(4, rollercoaster.getRating()); }
 
     @Test
     public void rollercoasterSecurityWorks() {

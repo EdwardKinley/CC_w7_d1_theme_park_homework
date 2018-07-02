@@ -12,7 +12,7 @@ public class PlaygroundTest {
 
     @Before
     public void before() {
-        playground = new Playground("Playzone");
+        playground = new Playground("Playzone", 9);
         visitor1 = new Visitor(9, 124, 13.00);
         visitor2 = new Visitor(15, 167, 17.20);
         visitor3 = new Visitor(16, 176, 268.40);
@@ -22,6 +22,9 @@ public class PlaygroundTest {
     public void canGetName() {
         assertEquals("Playzone", playground.getName());
     }
+
+    @Test
+    public void canGetRating() { assertEquals(9, playground.getRating()); }
 
     @Test
     public void canPlayWhen15OrYounger() {

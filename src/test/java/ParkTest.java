@@ -9,7 +9,7 @@ public class ParkTest {
 
     @Before
     public void before() {
-        park = new Park("Swingland");
+        park = new Park("Swingland", 2);
     }
 
     @Test
@@ -17,6 +17,7 @@ public class ParkTest {
         assertEquals("Swingland", park.getName());
     }
 
-
+    @Test
+    public void canGetRating() { assertEquals(2, park.getRating()); }
 
 }
